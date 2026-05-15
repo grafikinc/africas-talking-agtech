@@ -28,21 +28,24 @@ Users trigger real-time AI advisory generation via USSD menu selections. The sys
 - **Terrestrial** — crop advisories (maize, olives, cotton), pest/disease modeling, climate adaptation pivots
 
 ## Architecture
+
+```text
 Farmer dials *384# on feature phone
-↓
-Africa's Talking USSD Gateway
-↓
-ussd.php — bilingual menu navigation (EN/SW)
-↓
-Advisory Intelligence API (AI generation + biological models)
-• Fetches real-time weather/ocean data
-• Runs species-specific state machines
-• Generates advisory via LLM
-• Stores in KV for voice delivery
-↓
-voice-callback.php — TTS delivery + interactive GetDigits
-↓
-Farmer receives automated call with personalized advisory
+         ↓
+  Africa's Talking USSD Gateway
+         ↓
+  ussd.php — bilingual menu navigation (EN/SW)
+         ↓
+  Advisory Intelligence API (AI generation + biological models)
+       • Fetches real-time weather/ocean data
+       • Runs species-specific state machines
+       • Generates advisory via LLM
+       • Stores in KV for voice delivery
+         ↓
+  voice-callback.php — TTS delivery + interactive GetDigits
+         ↓
+  Farmer receives automated call with personalized advisory
+```
 
 **The advisory intelligence API (biological models, AI generation, data pipelines) is proprietary and not included in this repository.**
 
@@ -93,14 +96,17 @@ This repo contains only the USSD/Voice interface layer.
 - Your own advisory intelligence API
 
 ## File Structure
+
+```text
 agrofutures-ussd/
 ├── README.md
 ├── LICENSE (MIT)
 ├── .gitignore
 ├── config.example.php
 └── api/
-├── ussd.php           # USSD menu handler
-└── voice-callback.php  # Voice response + TTS
+    ├── ussd.php           # USSD menu handler
+    └── voice-callback.php  # Voice response + TTS
+```
 
 ## Deployment Status
 
@@ -170,22 +176,23 @@ We believe in **open plumbing, proprietary intelligence.** Fork this repo to bui
 
 ## Demo
 
-**2-minute video:** [Link to demo video]
+**2-minute video:** [Coming Soon]
 
-**Live on AT simulator:** [Link if available]
+**Live on AT simulator:** [Coming Soon]
 
 ## Contact
 
 Built by [GrafikInc](https://grafikinc.com) in Kilifi, Kenya.
 
 **For partnerships, technical questions, or production deployment support:**  
-Email: [your email]  
-Website: grafikinc.com/agrofutures  
-GitHub: github.com/[username]/agrofutures-ussd
+**Email:** [jason@mcguiness.design](mailto:jason@mcguiness.design)  
+**Website Consulting:** [grafikinc.com](https://grafikinc.com)  
+**Website Portfolio:** [mcguiness.design](https://mcguiness.design)  
+**GitHub:** [https://github.com/grafikinc/africas-talking-agtech/](https://github.com/grafikinc/africas-talking-agtech/)
 
 ---
 
-**Note:** This system is designed for the African context where 300 million people have feature phones but are excluded from smartphone-first AI applications. If you're building for similar markets (South Asia, Latin America, rural US), this architecture is directly applicable.
+**Note:** This system is designed for the African continent where 300+ million people have feature phones but are excluded from smartphone-first AI applications. If you're building for similar markets (South Asia, Latin America, rural US), this architecture is directly applicable.
 
 ## License
 

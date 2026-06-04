@@ -10,8 +10,8 @@ A bilingual (English / Kiswahili) USSD and voice interface that delivers climate
 
 No smartphone. No data bundles. No literacy required.
 
-[Africa's Talking Walkthrough](https://mcguiness.design](https://www.dropbox.com/scl/fi/krltg7d03tldp5yab4lmm/03-MultiLang-Menu.mp4?rlkey=l0t1gkshihjjwla7lpl4cf9ty&st=o5j4j3kj&dl=0))  
-[Khaya AI API Language Nav]([https://mcguiness.design](https://www.dropbox.com/scl/fi/krltg7d03tldp5yab4lmm/03-MultiLang-Menu.mp4?rlkey=l0t1gkshihjjwla7lpl4cf9ty&st=o5j4j3kj&dl=0)](https://www.dropbox.com/scl/fi/8v6k80q5xjlk977j97noy/01-AT-Walkthrough.mp4?rlkey=c1gti121b8a0bwitqrk788aiw&st=lj1hk6g0&dl=0))  
+[Africa's Talking Walkthrough](https://www.dropbox.com/scl/fi/krltg7d03tldp5yab4lmm/03-MultiLang-Menu.mp4?rlkey=l0t1gkshihjjwla7lpl4cf9ty&st=o5j4j3kj&dl=0)
+[Khaya AI API Language Nav](https://www.dropbox.com/scl/fi/krltg7d03tldp5yab4lmm/03-MultiLang-Menu.mp4?rlkey=l0t1gkshihjjwla7lpl4cf9ty&st=o5j4j3kj&dl=0)
 
 ### The Intelligence Layer
 

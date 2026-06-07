@@ -1,4 +1,4 @@
-# AgroFutures / GrafikInc.
+# AI Delivery Over USSD & SMS from Feature Phones to Smartphones
 
 **AI delivery over 2G. No smartphone. No data plan. No app.**
 

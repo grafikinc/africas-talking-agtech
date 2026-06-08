@@ -21,7 +21,7 @@ User dials *384# on any feature phone
        ↓
 Africa's Talking USSD Gateway (2G)
        ↓
-Menu navigation layer (bilingual, 182-char constraint handling)
+Menu navigation layer (multilang, 182-char constraint handling)
        ↓
 Intelligence API
   · Ingests real-time data (weather, satellite, ocean, soil)

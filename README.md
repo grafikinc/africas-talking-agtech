@@ -107,7 +107,6 @@ agrofutures-ussd/
 **Live**: Africa's Talking sandbox
 **Next**: Production carrier deployment (Safaricom, MTN, Vodacom)
 **Languages**: 4 live, 12+ planned
-**Users**: 150,000 registered (Murang'a County, Kenya)
 **Zones**: 4 validated climate zones
 
 ## Open Source

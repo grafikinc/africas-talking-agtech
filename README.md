@@ -36,7 +36,7 @@ User receives automated call with AI-generated response
 
 ## Proof
 
-[Africa's Talking](https://www.dropbox.com/scl/fi/d0bcvgjti0cg4kf85fagg/04-Africa-s-Talking-Luo.mp4?rlkey=qlah1zm71grv35o3z9xgdys1a&dl=0)
+[Africa's Talking](https://www.dropbox.com/scl/fi/pkksf1qkp1hni87mvmtfg/04-Africa-s-Talking-Luo.mp4?rlkey=3k09r81gmtqfuzhxrxrc1ypju&dl=0)
 
 This is production output from the system, generated 2026-06-04 for Gachororo Community Farm (Kiambu County, Kenya) at grain fill stage:
 
